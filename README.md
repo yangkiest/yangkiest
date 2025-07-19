@@ -11,7 +11,7 @@ Dan sekarang, aku lagi berproses buat jadi seseorang yang bisa nyiptain solusi d
 Masih baru, tapi selalu penasaran. Masih belajar, tapi gak akan berhenti.
 
 ## ｗｈｏ— ? 
-// still debugging life
+// still debugging life. 
 Coding like how I make my life. mysteriously yet somehow it runs. 
 
 ## ｃｕｒｉｏｕｓ ｎｏｗ? 
