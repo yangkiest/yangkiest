@@ -18,4 +18,4 @@ Coding like how I make my life. mysteriously yet somehow it runs.
 [![Instagram]([https://www.instagram.com/hikarisoraya2134?igsh=eGg2dmtoa3M5MnE0l) 
 
 ##  Fun Fact:
-The name "**Schadenfreude**" meaning: [schadenfreude_777]
+The name "**Schadenfreude**" meaning: [schadenfreude_777](https://github.com/yangkiest/schadenfreude_777) 
