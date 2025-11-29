@@ -1,7 +1,8 @@
 <img 
 src="https://github.com/user-attachments/assets/aba00b81-1e19-4eb7-b6aa-bd2468a32a89" 
 alt="Start"
-width="200" 
+width="200"
+style="margin-right:20px; align:center;"
 />
 
 ## //WIP: Human Version. 
@@ -14,6 +15,7 @@ I hate everyday instead, thank you.
 src="https://github.com/user-attachments/assets/7a550b5d-007c-44b1-8e0a-078fbd252ead"
 alt="ihateprogramming"
 width="500"
+style="margin-right:20px; align:center;"
 />
 
 ## ｗｈｏ— ? 
@@ -24,6 +26,7 @@ Coding like how I make my life. mysteriously yet somehow it runs.
 src="https://github.com/user-attachments/assets/02931a7f-4eec-483e-8f48-db8367246fca"
 alt="donttouchit"
 width="500"
+style="margin-right:20px; align:center;"
 />
 
 
